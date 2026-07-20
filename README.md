@@ -30,9 +30,9 @@ Brief overview:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Foodgram](https://github.com/mercv21/practicum-projects/tree/main/foodgram) | Recipe platform with subscriptions and favorites | Django, DRF, PostgreSQL, Docker, CI/CD |
-| [YaCut](https://github.com/mercv21/practicum-projects/tree/main/yacut) | Asynchronous URL shortener with caching | FastAPI, Redis, Docker Compose |
-| [Kittygram](https://github.com/mercv21/practicum-projects/tree/main/kittygram) | Social network for cat owners | Django, DRF, Nginx, HTTPS |
-| [YaMDb](https://github.com/mercv21/practicum-projects/tree/main/yamdb) | Reviews API for works (team project) | Django, DRF, JWT, Pytest |
+| [YaCut](https://github.com/mercv21/practicum-projects/tree/main/async-yacut) | Asynchronous URL shortener with caching | FastAPI, Redis, Docker Compose |
+| [Kittygram](https://github.com/mercv21/practicum-projects/tree/main/kittygram_final) | Social network for cat owners | Django, DRF, Nginx, HTTPS |
+| [YaMDb](https://github.com/mercv21/practicum-projects/tree/main/api-yamdb) | Reviews API for works (team project) | Django, DRF, JWT, Pytest |
 | [Taski](https://github.com/mercv21/practicum-projects/tree/main/taski) | Task manager in containers | Django, JavaScript, Docker |
 
 ---
